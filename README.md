@@ -55,12 +55,13 @@ El proyecto está organizado por módulos, cada uno encargado de una funcionalid
   ```
 3. Compila y ejecuta el proyecto con Maven o Gradle:
 
-  Si usas Maven:
+
+   Si usas Maven:
       ```bash
       ./mvnw spring-boot:run
-    ```
-
-  Si usas Gradle:
+      ```
+   
+   Si usas Gradle:
       ```bash
       ./gradlew bootRun
       ```
